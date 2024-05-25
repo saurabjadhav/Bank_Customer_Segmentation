@@ -1,0 +1,8 @@
+numpy
+re
+pandas
+matplotlib.pyplot
+seaborn
+sklearn
+scipy
+sklearn.manifoid
